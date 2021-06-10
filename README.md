@@ -1,0 +1,2 @@
+# Bloodbank-Management-System
+This project is based on Blood Bank management system. It will help the JUST medical center to collect blood from the donor and store blood in blood bank. This project explores a new dimension to make it more interesting and challenging. The software has a dedicated login for both hospital and blood bank. The Admin logging would give a person administration rights such as insertion, updating, deletion and modification of the student records. Only the admin would be able to access the backend database.
